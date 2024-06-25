@@ -1,0 +1,5 @@
+Iteración: 1
+Número de puntos: 100
+Tiempo de ejecución: 0.000000 segundos
+Número de iteraciones del bucle: 100
+Estimación de π: 3.0
